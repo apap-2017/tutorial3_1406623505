@@ -101,7 +101,25 @@ Latihan:
 		}
 		return "view";
 		
-	}	
+	}
+
+
+
+a. Ringkasan:
+- @PathVariable untuk membut path variable
+- th:text dapat digunakan untuk iterasi
+
+b. Sudah dijelaskan diatas
+
+c. Sudah dijelaskan diatas
+
+d. 
+- masukkan npm
+- method akan menjalankan loop yang memberikan return true atau false. return true jika menemukan datanya dan menghapus. Return false jika tidak menemukan datanya
+- Jika yang direturn true, dialihkan ke halaman berhasil menghapus
+- Sebaliknya, jika return false, akan dialihkan ke halaman data tidak ditemukan
+
+	
 
 	
 	
